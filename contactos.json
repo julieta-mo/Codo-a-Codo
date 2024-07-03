@@ -1,0 +1,20 @@
+[
+    {
+        "Nombre": "mario",
+        "Alias": "a",
+        "CBU": 1,
+        "DNI": 1
+    },
+    {
+        "Nombre": "pablo",
+        "Alias": "a",
+        "CBU": 1,
+        "DNI": 2
+    },
+    {
+        "Nombre": "marcos",
+        "Alias": "w",
+        "CBU": 2,
+        "DNI": 11
+    }
+]
